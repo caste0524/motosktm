@@ -1,0 +1,7 @@
+<frameset rows="20%,80%" border=0>
+	<frame src="gris.html">
+	<frameset cols="30%,70%">
+	<frame src="green.html">
+	<frame src="blue.html">
+</frameset>
+</frameset>
